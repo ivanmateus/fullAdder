@@ -8,8 +8,8 @@
 #include <stdlib.h>
 #include "infcalc.h"
 
-int main(int argc, char const *argv[]) {
-
+int main(int argc, char const *argv[])
+{
 	int parcNum = 0;
 	int tamSum = 0;
 	Lista *sum = criaLista();

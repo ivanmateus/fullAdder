@@ -1,3 +1,8 @@
+/*****************************************/
+/* Autor: Ivan Mateus de Lima Azevedo    */
+/* No. USP: 10525602                     */
+/*****************************************/
+
 #ifndef INFCALC_H_
 #define INFCALC_H_
 

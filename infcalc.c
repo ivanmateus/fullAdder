@@ -1,3 +1,8 @@
+/*****************************************/
+/* Autor: Ivan Mateus de Lima Azevedo    */
+/* No. USP: 10525602                     */
+/*****************************************/
+
 //Inclusao das bibliotecas
 #include <stdio.h>
 #include <stdlib.h>
